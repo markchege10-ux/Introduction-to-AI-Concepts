@@ -14,6 +14,7 @@ A collaborative guide by [list all team member names].
 This guide covers different concepts of AI.
 Each section is written by a different team member and each team member should choose which 
 topic to cover.
+Below are the already chosen concepts
 
 ## Machine learning 
 <!-- [Markchege10-ux] will write this section -->
