@@ -22,5 +22,8 @@ Below are the already chosen concepts
 ## Neural networks  
 <-- [Mshi-dev15] will write this section -->
 
+## Deep Learning
+<-- [paulinendugi.eng] will write this section -->
+
 
 
