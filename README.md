@@ -18,7 +18,7 @@ topic to cover.
 ## Machine learning 
 <!-- [Markchege10-ux] will write this section -->
 
-## Neural networks - Mshi-dev15.
+## Neural networks - 
 <!-- [Mshi-dev15] will write this section -->
 
 
