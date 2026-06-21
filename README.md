@@ -14,63 +14,154 @@ A collaborative guide by [list all team member names].
 This guide covers different concepts of AI.
 Each section is written by a different team member and each team member should choose which 
 topic to cover.
-Below are the already chosen concepts
 
 ## Machine learning 
-What is Machine Learning?
+## Why Machine Learning Matters
 
-Machine Learning (ML) is a branch of Artificial Intelligence (AI) that enables computers to learn from data and improve their performance without being explicitly programmed for every task.
+Machine learning is useful when creating exact rules for a problem is difficult or impossible.
 
-Traditional Programming vs Machine Learning
+### Common Applications
 
-Traditional Programming
+- Email spam detection
+- Fraud detection in banking
+- Recommendation systems
+- Medical diagnosis
+- Image recognition
+- Speech recognition
+- Stock market analysis
+- Self-driving cars
 
-Input Data + Rules → Output
+---
 
-Machine Learning
+## Key Machine Learning Terminology
 
-Input Data + Output Data → Machine Learning Algorithm → Rules (Model)
-Definition
+### Data
 
-Arthur Samuel (1959), one of the pioneers of machine learning, defined it as:
-
-"The field of study that gives computers the ability to learn without being explicitly programmed."
-
-### Why Machine Learning?
-
-Machine Learning helps solve problems where writing exact rules is difficult.
-
-Examples
-Email spam detection
-Fraud detection
-Stock market prediction
-Medical diagnosis
-Face recognition
-Speech recognition
-Recommendation systems
-Self-driving cars
-### Key Terminology
-Data
-
-Information used to train a model.
+Data is the information used to train and test machine learning models.
 
 Example:
 
-Age	Salary	Buy Product
-25	30000	No
-40	70000	Yes
-Feature
+| Age | Salary | Buy Product |
+|------|---------|------------|
+| 25 | 30,000 | No |
+| 40 | 70,000 | Yes |
 
-An input variable.
+### Features
+
+Features are the input variables used by a model.
 
 Examples:
+- Age
+- Salary
+- Location
+- Experience
 
-Age
-Salary
-Gender
-Label (Target)
+### Label (Target)
 
-The output we want to predict.
+The output value the model is trying to predict.
+
+Examples:
+- Yes/No
+- House Price
+- Customer Churn
+
+### Dataset
+
+A collection of related data used for training and testing.
+
+### Model
+
+A mathematical representation learned from data that can make predictions.
+
+### Training Data
+
+Data used to teach the model.
+
+### Testing Data
+
+Data used to evaluate the model's performance.
+
+---
+
+## Types of Machine Learning
+
+### 1. Supervised Learning
+
+Supervised learning uses labeled data, meaning the correct answers are already known.
+
+#### Examples
+
+- House price prediction
+- Email spam classification
+- Disease diagnosis
+
+#### Popular Algorithms
+
+- Linear Regression
+- Logistic Regression
+- Decision Trees
+- Random Forest
+- Support Vector Machines (SVM)
+- Neural Networks
+
+---
+
+### 2. Unsupervised Learning
+
+Unsupervised learning works with unlabeled data and discovers hidden patterns.
+
+#### Examples
+
+- Customer segmentation
+- Market basket analysis
+- Anomaly detection
+
+#### Popular Algorithms
+
+- K-Means Clustering
+- Hierarchical Clustering
+- DBSCAN
+- Principal Component Analysis (PCA)
+
+---
+
+### 3. Reinforcement Learning
+
+Reinforcement learning trains an agent to make decisions through rewards and penalties.
+
+#### Examples
+
+- Game-playing AI
+- Robotics
+- Self-driving vehicles
+
+#### Key Components
+
+- Agent
+- Environment
+- Actions
+- Rewards
+
+---
+
+### 4. Semi-Supervised Learning
+
+Semi-supervised learning combines a small amount of labeled data with a large amount of unlabeled data.
+
+#### Examples
+
+- Image classification
+- Speech recognition
+- Medical imaging
+
+## Useful Machine Learning Resources
+
+### Official Documentation
+
+- [Scikit-Learn Documentation](https://scikit-learn.org/stable/)
+- [TensorFlow Documentation](https://www.tensorflow.org/)
+
+---
 
 ## Neural networks  
 A **neural network** is a machine learning model loosely inspired by how 
