@@ -11,7 +11,7 @@ A collaborative guide by [list all team member names].
 - [Unsupervisecd Learning](#Unsupervised-Learning)
 
 ## Introduction
-This guide covers tools that every student should know about.
+This guide covers different concepts of AI.
 Each section is written by a different team member and each team member should choose which 
 topic to cover.
 
