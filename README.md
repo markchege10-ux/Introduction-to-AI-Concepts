@@ -19,7 +19,7 @@ Below are the already chosen concepts
 ## Machine learning 
 <!-- [Markchege10-ux] will write this section -->
 
-## Neural networks - 
+## Neural networks  
 <!-- [Mshi-dev15] will write this section -->
 
 
