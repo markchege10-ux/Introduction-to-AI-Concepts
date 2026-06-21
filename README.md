@@ -17,7 +17,60 @@ topic to cover.
 Below are the already chosen concepts
 
 ## Machine learning 
-<!-- [Markchege10-ux] will write this section -->
+What is Machine Learning?
+
+Machine Learning (ML) is a branch of Artificial Intelligence (AI) that enables computers to learn from data and improve their performance without being explicitly programmed for every task.
+
+Traditional Programming vs Machine Learning
+
+Traditional Programming
+
+Input Data + Rules → Output
+
+Machine Learning
+
+Input Data + Output Data → Machine Learning Algorithm → Rules (Model)
+Definition
+
+Arthur Samuel (1959), one of the pioneers of machine learning, defined it as:
+
+"The field of study that gives computers the ability to learn without being explicitly programmed."
+
+2. Why Machine Learning?
+
+Machine Learning helps solve problems where writing exact rules is difficult.
+
+Examples
+Email spam detection
+Fraud detection
+Stock market prediction
+Medical diagnosis
+Face recognition
+Speech recognition
+Recommendation systems
+Self-driving cars
+3. Key Terminology
+Data
+
+Information used to train a model.
+
+Example:
+
+Age	Salary	Buy Product
+25	30000	No
+40	70000	Yes
+Feature
+
+An input variable.
+
+Examples:
+
+Age
+Salary
+Gender
+Label (Target)
+
+The output we want to predict.
 
 ## Neural networks  
 A **neural network** is a machine learning model loosely inspired by how 
