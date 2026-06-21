@@ -55,5 +55,8 @@ are hard to describe with fixed logic, such as:
 - [3Blue1Brown: Neural Networks (YouTube series)](https://www.3blue1brown.com/topics/neural-networks)
 - [Neural Networks and Deep Learning (free online book)](http://neuralnetworksanddeeplearning.com/)
 
+## Deep Learning
+<!-- [paulinendugi.eng] will write this section -->
+
 
 
