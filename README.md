@@ -1,4 +1,4 @@
-# Introductiion to AI Concepts.
+# Introduction to AI Concepts.
 
 A collaborative guide by [list all team member names].
 
