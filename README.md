@@ -36,7 +36,7 @@ Arthur Samuel (1959), one of the pioneers of machine learning, defined it as:
 
 "The field of study that gives computers the ability to learn without being explicitly programmed."
 
-2. Why Machine Learning?
+### Why Machine Learning?
 
 Machine Learning helps solve problems where writing exact rules is difficult.
 
@@ -49,7 +49,7 @@ Face recognition
 Speech recognition
 Recommendation systems
 Self-driving cars
-3. Key Terminology
+### Key Terminology
 Data
 
 Information used to train a model.
