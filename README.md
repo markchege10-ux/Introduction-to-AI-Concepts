@@ -17,10 +17,10 @@ topic to cover.
 Below are the already chosen concepts
 
 ## Machine learning 
-<!-- [Markchege10-ux] will write this section -->
+<-- [Markchege10-ux] will write this section -->
 
 ## Neural networks  
-<!-- [Mshi-dev15] will write this section -->
+<-- [Mshi-dev15] will write this section -->
 
 
 
