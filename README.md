@@ -1,7 +1,7 @@
 # Introduction to AI Concepts.
 
-A collaborative guide by [list all team member names].
-
+A collaborative guide by [1.Markchege10-ux].
+                          2.Mshi-dev15.
 ## Table of Contents
 - [Introduction](#introduction)
 - [Machine Learning](#Machine-Learning)
