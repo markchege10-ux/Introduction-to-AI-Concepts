@@ -15,4 +15,11 @@ This guide covers different concepts of AI.
 Each section is written by a different team member and each team member should choose which 
 topic to cover.
 
+## Machine learning 
+<!-- [Markchege10-ux] will write this section -->
+
+## Neural networks - Mshi-dev15.
+<!-- [Mshi-dev15] will write this section -->
+
+
 
