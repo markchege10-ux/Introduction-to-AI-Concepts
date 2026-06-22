@@ -207,7 +207,7 @@ are hard to describe with fixed logic, such as:
 ## Supervised learning
 <!-- [M-0321] will write this section -->
 
-## Unsupervised learning
+## Natural Language Processing
 <!-- [Ngatia259-dev] will write this section -->
 
 
