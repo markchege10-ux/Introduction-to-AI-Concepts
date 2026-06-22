@@ -201,6 +201,14 @@ are hard to describe with fixed logic, such as:
 - [3Blue1Brown: Neural Networks (YouTube series)](https://www.3blue1brown.com/topics/neural-networks)
 - [Neural Networks and Deep Learning (free online book)](http://neuralnetworksanddeeplearning.com/)
 
+### Diagram
+
+![Neural Network Diagram](images/neural-network-diagram.png)
+
+- Each connection has a weight.
+- Each node applies an activation function before passing its signal forward.
+- The output is the network's prediction (y).
+
 ## Deep Learning
 <!-- [paulinendugi.eng] will write this section -->
 
