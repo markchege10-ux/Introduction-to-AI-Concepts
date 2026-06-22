@@ -204,5 +204,8 @@ are hard to describe with fixed logic, such as:
 ## Deep Learning
 <!-- [paulinendugi.eng] will write this section -->
 
+## Supervised learning
+<!-- [M-0321] will write this section -->
+
 
 
