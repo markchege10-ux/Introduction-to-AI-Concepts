@@ -205,9 +205,7 @@ are hard to describe with fixed logic, such as:
 
 ![Neural Network Diagram](images/neural-network-diagram.png)
 
-- Each connection has a weight.
-- Each node applies an activation function before passing its signal forward.
-- The output is the network's prediction (y).
+A simplified neural network showing how input features pass through hidden neurons and weighted connections to produce an output prediction.
 
 ## Deep Learning
 <!-- [paulinendugi.eng] will write this section -->
