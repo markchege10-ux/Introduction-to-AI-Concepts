@@ -212,8 +212,9 @@ meaning each input has a correct output. The model compares its predictions with
   - Classification
   - Regression
 
-![supervised learning](./images/types_of_supervised_learning.png)
-  
+<img width="544" height="193" alt="types_of_supervised_learning" src="https://github.com/user-attachments/assets/5cef0d10-dfb1-43ce-a520-b268dee18aac" />
+
+
   ## Advantages of Supervised learning
 - When sufficient data is provided, it achieves high accuracy.
 - Easy to understand and implement as it works on data labels.
