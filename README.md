@@ -1,7 +1,7 @@
 # Introduction to AI Concepts.
 
 A collaborative guide by 
-1. Markchege10-ux
+1. markchege10-ux
 2. Mshi-dev15
 3. M-0321
 4. paulinendugi-eng
