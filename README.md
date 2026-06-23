@@ -192,6 +192,12 @@ are hard to describe with fixed logic, such as:
 - **Epoch** — one full pass of the training data through the network.
 - **Deep Learning** — neural networks with many hidden layers ("deep" networks).
 
+### Diagram
+
+![Neural Network Diagram](images/neural-network-diagram.png)
+
+A simplified neural network showing how input features pass through hidden neurons and weighted connections to produce an output prediction.
+
 ### Useful Links
 - [3Blue1Brown: Neural Networks (YouTube series)](https://www.3blue1brown.com/topics/neural-networks)
 - [Neural Networks and Deep Learning (free online book)](http://neuralnetworksanddeeplearning.com/)
