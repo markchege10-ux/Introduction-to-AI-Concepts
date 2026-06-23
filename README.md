@@ -211,7 +211,7 @@ Deep learning is a specialized subset of **Machine Learning (ML)**, which itself
 
 ---
 
-## 1. Core Concept: Neural Networks
+## 1. Core Concept:
 
 At the heart of deep learning are **Artificial Neural Networks (ANNs)**. Unlike traditional machine learning algorithms that require manual feature engineering, deep learning algorithms automatically discover the features required for classification or prediction.
 
