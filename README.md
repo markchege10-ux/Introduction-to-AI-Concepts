@@ -206,7 +206,87 @@ A simplified neural network showing how input features pass through hidden neuro
 - [Neural Networks and Deep Learning (free online book)](http://neuralnetworksanddeeplearning.com/)
 
 ## Deep Learning
-<!-- [paulinendugi.eng] will write this section -->
+
+Deep learning is a specialized subset of **Machine Learning (ML)**, which itself is a branch of **Artificial Intelligence (AI)**. Inspired by the structure and function of the human brain, deep learning uses multi-layered artificial neural networks to learn deep hierarchies of data.
+
+---
+
+## 1. Core Concept: Neural Networks
+
+At the heart of deep learning are **Artificial Neural Networks (ANNs)**. Unlike traditional machine learning algorithms that require manual feature engineering, deep learning algorithms automatically discover the features required for classification or prediction.
+
+### The Basic Unit: The Perceptron
+A perceptron (or neuron) takes multiple inputs, applies a weight to each, sums them up, adds a bias, and passes the result through an **activation function** to produce an output.
+
+
+
+* **Inputs ($x_1, x_2, \dots, x_n$):** The data features fed into the neuron.
+* **Weights ($w_1, w_2, \dots, w_n$):** Determine the importance/signal strength of each input.
+* **Bias ($b$):** An extra threshold value added to the weighted sum to shift the activation function.
+* **Activation Function:** Introduces non-linearity into the network, allowing it to learn complex patterns (e.g., ReLU, Sigmoid, Tanh).
+
+The mathematical representation of a single neuron's output ($y$) is:
+
+$$y = f\left( \sum_{i=1}^{n} w_i x_i + b \right)$$
+
+---
+
+## 2. Network Architecture
+
+A "deep" neural network consists of three main types of layers:
+
+1.  **Input Layer:** Receives the raw data (e.g., pixels of an image, words in a text).
+2.  **Hidden Layers:** The "deep" part of deep learning. Multiple layers of neurons that extract increasingly abstract features. 
+    * *Example in Vision:* The first hidden layer might detect edges; the second detects shapes; the third detects complex objects like faces.
+3.  **Output Layer:** Provides the final prediction (e.g., "Cat" or "Dog", or a numerical value).
+
+
+
+---
+
+## 3. How Deep Learning Models Learn
+
+The training process of a neural network involves an iterative loop of three main steps:
+
+### A. Forward Propagation
+Data passes through the network from the input layer to the output layer. Each layer processes the data and hands it to the next, resulting in a final prediction.
+
+### B. Loss Function Evaluation
+The model's prediction is compared to the actual target value (the truth) using a **Loss Function** (or Cost Function). The loss function calculates a error metric showing how far off the prediction was.
+* *Common Loss Functions:* Mean Squared Error (MSE) for regression; Cross-Entropy for classification.
+
+### C. Backward Propagation (Backpropagation) & Optimization
+This is where learning actually happens:
+* The error is calculated at the output and propagated *backward* through the network.
+* Using **Calculus (The Chain Rule)**, the network calculates the gradient of the loss function with respect to each weight.
+* An **Optimizer** (like Gradient Descent or Adam) adjusts the weights and biases in the direction that minimizes the loss.
+
+---
+
+## 4. Key Deep Learning Architectures
+
+Different tasks require different network structures:
+
+| Architecture Type | Best Used For | Key Feature |
+| :--- | :--- | :--- |
+| **Feedforward Neural Networks (FNN)** | Basic tabular data, classification | Standard layer-by-layer structure, no loops. |
+| **Convolutional Neural Networks (CNN)** | Computer Vision, Image/Video Processing | Uses "filters" to capture spatial patterns in data. |
+| **Recurrent Neural Networks (RNN / LSTM)**| Sequential Data, Time Series, Natural Language | Has "memory" loops to process historical sequences. |
+| **Transformers** | Advanced NLP, Large Language Models (LLMs) | Uses "Self-Attention" mechanisms to process sequences simultaneously. |
+
+---
+
+## 5. Advantages and Challenges
+
+### Advantages
+* **No Manual Feature Engineering:** Automatically extracts features from raw data.
+* **Highly Scalable:** Performance typically improves as you feed it more data and compute power.
+* **Excellent with Unstructured Data:** Excels at handling images, audio, video, and text.
+
+### Challenges
+* **Data Hungry:** Requires massive amounts of labeled data to train effectively.
+* **Compute Intensive:** Often requires specialized hardware like GPUs or TPUs.
+* **Black Box Problem:** Deep networks are highly complex, making it difficult to interpret *why* a model made a specific decision.
 
 ## Supervised learning
 Supervised learning is a type of machine learning where a model learns from labelled data,
