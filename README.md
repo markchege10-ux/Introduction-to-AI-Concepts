@@ -2,7 +2,7 @@
 
 A collaborative guide by 
 1. Mark muraya 
-2. Mshidev-15
+2. Mshi-dev15
 
 ## Table of Contents
 - [Introduction](#introduction)
