@@ -1,8 +1,8 @@
 # Introduction to AI Concepts.
 
 A collaborative guide by 
-1. Markchege10-ux. 
-2. Mshi-dev15.
+1. Mark muraya 
+2. Mshidev-15
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -29,9 +29,6 @@ Machine learning is useful when creating exact rules for a problem is difficult 
 - Recommendation systems
 - Medical diagnosis
 - Image recognition
-- Speech recognition
-- Stock market analysis
-- Self-driving cars
 
 ---
 
@@ -103,8 +100,6 @@ Supervised learning uses labeled data, meaning the correct answers are already k
 - Logistic Regression
 - Decision Trees
 - Random Forest
-- Support Vector Machines (SVM)
-- Neural Networks
 
 ---
 
