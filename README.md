@@ -205,7 +205,22 @@ are hard to describe with fixed logic, such as:
 <!-- [paulinendugi.eng] will write this section -->
 
 ## Supervised learning
-<!-- [M-0321] will write this section -->
+Supervised learning is a type of machine learning where a model learns from labelled data,
+meaning each input has a correct output. The model compares its predictions with actual results and improves over time to increase accuracy.
+
+  ## Types of supervised learning
+  - Classification
+  - Regression
+
+![supervised learning](./images/types_of_supervised_learning.png)
+  
+  ## Advantages of Supervised learning
+- When sufficient data is provided, it achieves high accuracy.
+- Easy to understand and implement as it works on data labels.
+
+## Disadvantages of Supervised learning
+- heavily relly on dat fed hence can be tideous
+- when minimall information is provided the output can be misleading
 
 ## Natural Language Processing
 <!-- [Ngatia259-dev] will write this section -->
