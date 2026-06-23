@@ -10,7 +10,7 @@ A collaborative guide by
 - [Neural Networks](#Neural-Networks)
 - [Deep Learning](#Deep-Learning)
 - [Supervised Learning](#Supervised-Learning)
-- [Unsupervisecd Learning](#Unsupervised-Learning)
+- [Natural Language Processing](#Natural-Language-Processing)
 
 ## Introduction
 This guide covers different concepts of AI.
