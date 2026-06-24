@@ -304,8 +304,8 @@ meaning each input has a correct output. The model compares its predictions with
 - Easy to understand and implement as it works on data labels.
 
 ## Disadvantages of Supervised learning
-- heavily relly on dat fed hence can be tideous
-- when minimall information is provided the output can be misleading
+- heavilly rely on data fed hence can be tedious
+- when minimal information is provided the output can be misleading
 
 ## Natural Language Processing
 
